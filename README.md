@@ -2,7 +2,7 @@
 
 Aplicacao desktop simples para calcular o IMC a partir do peso e da altura informados pelo usuario.
 
-![Demonstracao da Calculadora de IMC](./assets/calculadora-imc.gif)
+<img src="./assets/calculadora-imc.gif" alt="Demonstracao da Calculadora de IMC" width="520">
 
 ## Repositorio
 
